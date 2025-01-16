@@ -5,6 +5,7 @@
     "dbaeumer.vscode-eslint",
     "EditorConfig.EditorConfig",
     "esbenp.prettier-vscode",
-    "hollowtree.vue-snippets"
+    "hollowtree.vue-snippets",
+    "octref.vetur"
   ]
 }
